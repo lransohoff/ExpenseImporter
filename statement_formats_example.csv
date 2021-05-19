@@ -1,0 +1,3 @@
+Account Name, Description Column Header, Date Column Header, Date Format
+Savings_Account_Bank1, Description, Date, mm/dd/YYYY
+Joe_Schmoe_Bank, Merchant Description, Transaction Date, mm-dd-YYYY
